@@ -1,0 +1,27 @@
+/* CSS TROUBLESHOOTING
+
+
+
+body {
+  background-color: burlywood;
+}
+
+* {
+  border: 1px solid red;
+  background-color: ivory;
+}
+
+*/
+
+section {
+  display: inline-block;
+  background-color: darkgray;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+h2 {
+  margin-right: 70%;
+  border: 1px solid black;
+  background-color: bisque;
+}
